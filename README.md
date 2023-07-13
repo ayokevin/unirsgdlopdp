@@ -50,10 +50,6 @@ https://www.udemy.com/share/103dum3@tGPncUZS8sllbVdnkhz6FYFm_0TP1GmP6ojAGmZgSRXJ
 Y para php y postgresql:
 https://www.udemy.com/share/1013jU3@cyUHINWtGXeEmNgNHy6oTa_rDFZ0ZxNPgYzAr6d-qqWm3fX3-rJ2iYVkXp1SXEB3/
 
-## Contribución
-
-Indica cómo las personas pueden contribuir a tu proyecto y las pautas que deben seguir.
-
 ## Licencia
 
 Pueden ver que la licencia establecida en el archivo Licence
